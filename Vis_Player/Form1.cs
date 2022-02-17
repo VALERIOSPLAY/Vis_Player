@@ -5,6 +5,7 @@ namespace Vis_Player
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("Github Test")
         }
     }
 }
